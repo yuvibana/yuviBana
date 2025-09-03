@@ -2,74 +2,50 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Developer based in Noida, India, with 3 years of professional experience in crafting responsive, user-focused web applications. I'm passionate about building scalable and performant solutions using modern technologies.
+I’m a **Software Developer** based in Noida, India, with 3 years of experience in building responsive, user-centric web applications. I thrive on developing scalable, performant solutions using modern technologies.
 
 ## 🛠️ Skills
 
-**Core Technologies:**
+### **Core Technologies**
 
-- HTML
-- CSS
-- JavaScript
-- Ajax
+* **HTML**, **CSS**, **JavaScript**, **Ajax**, **Fetch**
 
-**Modern Frameworks & Libraries:**
+### **Modern Frameworks & Libraries**
 
-- React ⚛️
-- Redux
-- Tailwind CSS
+* **React ⚛️**, **Redux**, **Vuejs**, **Nextjs**, **Tailwind CSS**
 
-**Tooling & Practices:**
+### **Tooling & Practices**
 
-- Vite
-- Git
-- DevTools
+* **Vite**, **Git**, **DevTools**
 
-**Performance Optimization:**
+### **Performance Optimization**
 
-- Lazy Loading
-- Memoization
-- Code Splitting
+* Lazy Loading, Memoization, Code Splitting
 
 ## 🚀 Projects
 
-### Cloud Drive Web App
+### **Cloud Drive Web App**
 
-- Implemented JWT authentication and role-based access.
-- Developed a responsive React UI with lazy loading and code splitting.
+* **Features:** JWT authentication & role-based access, nsted folder, pagination.
+* **Tech Stack:** React, Redux, tailwindcss, Node.js, express, MongoDB
+* **Accomplishments:**
+  * Implemented lazy loading and code splitting for faster loads.
 
-### Dynamic CMS
+### **Dynamic CMS**
 
-- Built an API-driven content management system with CRM tools.
-- Designed reusable routes and scalable modules.
+* **Features:** API-driven content management system with CRM tools.
+* **Tech Stack:** React, Redux, tailwindcss, Node.js, express, MongoDB
+* **Accomplishments:**
+  * Designed reusable routes and scalable modules for easy integration.
 
-### Hotel & Flight Booking Site
+### **Hotel & Flight Booking Site**
 
-- Transformed Figma/PSD designs into interactive UIs.
-- Integrated dynamic content using ASP.NET MVC.
-
-## 💼 Experience
-
-### GTF Technologies — Frontend Developer
-
-*Feb 2022 – Present | Noida*
-
-- Developed and shipped performant, accessible UIs with modern tooling.
-
-### TeamXml — Frontend Developer
-
-*Jan 2021 – Jan 2022 | Delhi*
-
-- Maintained production interfaces with a strong focus on user experience.
+* **Features:** Dynamic content integration with Figma/PSD design transformation.
+* **Tech Stack:** ASP.NET MVC, JavaScript
+* **Accomplishments:**
+  * Built responsive, interactive UIs, dynamic CRM from.
 
 ## 📬 Get in Touch
 
-- 📧 Email: [yuvibana03@gmail.com](mailto:yuvibana03@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yuviBana](https://www.linkedin.com/in/yuviBana)
-- 🐙 GitHub: [github.com/yuviBana](https://github.com/yuviBana)
-
----
-
-Made with ❤️ in India
-
-Feel free to explore my repositories and connect with me!
+* 📧 **Email:** [yuvibana03@gmail.com](mailto:yuvibana03@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/yuviBana](https://www.linkedin.com/in/yuviBana)
